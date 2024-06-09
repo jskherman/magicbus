@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>This is Herman (fr fr) - meta</title>
+    <subtitle>A site on the bussin&#x27; webx.</subtitle>
+    <link rel="self" type="application/atom+xml" href="/tags/meta/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-09T00:00:00+00:00</updated>
+    <id>/tags/meta/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Entry 000001</title>
+        <published>2024-06-09T00:00:00+00:00</published>
+        <updated>2024-06-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/000001/"/>
+        <id>/blog/000001/</id>
+        
+        <content type="html" xml:base="/blog/000001/">&lt;p&gt;This is the first entry in this webxite. Nothing much to see here, for now.
+See &lt;a href=&quot;&#x2F;blog&#x2F;markdown-syntax&#x2F;&quot;&gt;the other page on markdown syntax&lt;&#x2F;a&gt; for a sample of HTML elements.&lt;&#x2F;p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;After tinkering for a while, this webxite has been styled using &lt;a href=&quot;https:&#x2F;&#x2F;css.winterveil.net&quot;&gt;magick.css&lt;&#x2F;a&gt; and based off of the &lt;a href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;alanpearce&#x2F;zola-bearblog&quot;&gt;Bear Blog theme in Zola&lt;&#x2F;a&gt;. Who knows if this will work? Maybe it will, maybe it won&#x27;t. But it&#x27;s worth a shot.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
