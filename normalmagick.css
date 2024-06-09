@@ -151,11 +151,11 @@ sup {
 }
 
 sub {
-    bottom: -0.25em;
+    bottom: -2.5px;
 }
 
 sup {
-    top: -0.5em;
+    top: -5px;
 }
 
 /* Embedded content
@@ -270,7 +270,7 @@ legend {
     /* 2 */
     display: table;
     /* 1 */
-    max-width: 100%;
+    max-width: 800px;
     /* 1 */
     padding: 0px;
     /* 3 */
