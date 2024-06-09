@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>buss://herman.fr/</loc>
     </url>
     <url>
-        <loc>/blog/</loc>
+        <loc>buss://herman.fr/blog/</loc>
     </url>
     <url>
-        <loc>/blog/000001/</loc>
+        <loc>buss://herman.fr/blog/000001/</loc>
         <lastmod>2024-06-09</lastmod>
     </url>
     <url>
-        <loc>/blog/markdown-syntax/</loc>
+        <loc>buss://herman.fr/blog/markdown-syntax/</loc>
         <lastmod>2024-06-09</lastmod>
     </url>
     <url>
-        <loc>/categories/</loc>
+        <loc>buss://herman.fr/categories/</loc>
     </url>
     <url>
-        <loc>/tags/</loc>
+        <loc>buss://herman.fr/tags/</loc>
     </url>
     <url>
-        <loc>/tags/log/</loc>
+        <loc>buss://herman.fr/tags/log/</loc>
     </url>
     <url>
-        <loc>/tags/markdown/</loc>
+        <loc>buss://herman.fr/tags/markdown/</loc>
     </url>
     <url>
-        <loc>/tags/meta/</loc>
+        <loc>buss://herman.fr/tags/meta/</loc>
     </url>
     <url>
-        <loc>/tags/syntax/</loc>
+        <loc>buss://herman.fr/tags/syntax/</loc>
     </url>
     <url>
-        <loc>/tags/zola/</loc>
+        <loc>buss://herman.fr/tags/zola/</loc>
     </url>
 </urlset>
